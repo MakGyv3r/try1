@@ -1,4 +1,4 @@
-https://myserver/ota/lastBuild.bin
+https://github.com/MakGyv3r/try1/blob/master/SimpleExample.ino.node32s.bin
 2
-a2fbf5835de079474e820ceda2ca9986
+5F3F7AC2569F50A4667647C6A18CA007AAEDBB8E
 1.1
