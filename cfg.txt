@@ -1,4 +1,2 @@
 https://github.com/MakGyv3r/try1/raw/master/SimpleExample.ino.node32s.bin
 2
-5f3f7ac2569f50a4667647c6a18ca007aaedbb8e
-1.1
