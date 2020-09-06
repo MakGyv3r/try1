@@ -1,2 +1,2 @@
-https://github.com/MakGyv3r/try1/raw/master/SimpleExample.ino.node32s.bin
+https://github.com/MakGyv3r/try1/raw/master/otaWithUrl_Version.ino.esp32.bin
 2
